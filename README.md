@@ -34,7 +34,7 @@ Download the files from the repo and install on domain. Should work instantly.
 
 This is a responsive website that presents a timed quiz over with questions about JavaScript.
 
-Link to view: [Work Day Calendar](https://pgold762.github.io/TimedQuiz/)
+Link to view: [Work Day Calendar](https://pgold762.github.io/WorkDayCalendar/)
 
 Screenshot of website: 
 
