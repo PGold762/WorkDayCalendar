@@ -34,11 +34,11 @@ Download the files from the repo and install on domain. Should work instantly.
 
 This is a responsive website that shows the current date and timeslots from 9am to 5pm for the current work day. It allows an employee to enter their tasks and it saves the data to their local browser.
 
-Link to view: [Work Day Calendar](https://pgold762.github.io/WorkDayCalendar/)
+Link to view: [Work Day Scheduler](https://pgold762.github.io/WorkDayCalendar/)
 
 Screenshot of website: 
 
-![Work Day Calendar](./assets/images/timed-quiz.png "Work Day Calendar")
+![Work Day Scheduler](workdayscheduler.png "Work Day Scheduler")
 
 ## Credits
 
@@ -48,9 +48,9 @@ Used the following for assistance: [GeeksforGeeks](https://www.geeksforgeeks.org
 
 Used the following for assistance: [JQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
 
-Used the fllowing for assistance: [MeetAnshi.com](https://meetanshi.com/blog/reload-current-page-without-losing-any-form-data-in-javascript/#:~:text=To%20store%20the%20form%20data,a%20new%20session%20is%20initiated.)
+Used the following for assistance: [MeetAnshi.com](https://meetanshi.com/blog/reload-current-page-without-losing-any-form-data-in-javascript/#:~:text=To%20store%20the%20form%20data,a%20new%20session%20is%20initiated.)
 
-
+Worked with Tutor Andrew Tirpok on understanding some of the syntax.
 
 ## License
 
