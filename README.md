@@ -32,7 +32,7 @@ Download the files from the repo and install on domain. Should work instantly.
 
 ## Usage
 
-This is a responsive website that presents a timed quiz over with questions about JavaScript.
+This is a responsive website that shows the current date and timeslots from 9am to 5pm for the current work day. It allows an employee to enter their tasks and it saves the data to their local browser.
 
 Link to view: [Work Day Calendar](https://pgold762.github.io/WorkDayCalendar/)
 
@@ -42,7 +42,13 @@ Screenshot of website:
 
 ## Credits
 
-Used MixKit sound effects for correct and wrong answers: [MixKit](https://mixkit.co/free-sound-effects)
+Used documentation from [DayJS](https://day.js.org/en/)
+
+Used the following for assistance: [GeeksforGeeks](https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery/)
+
+Used the following for assistance: [JQuery CheatSheet](https://htmlcheatsheet.com/jquery/)
+
+Used the fllowing for assistance: [MeetAnshi.com](https://meetanshi.com/blog/reload-current-page-without-losing-any-form-data-in-javascript/#:~:text=To%20store%20the%20form%20data,a%20new%20session%20is%20initiated.)
 
 
 
