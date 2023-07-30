@@ -14,7 +14,7 @@ $(function () {
   // current hour in 24-hour time?
 
   // Set the info from Local Storage to Textareas
-  function loadUserInputFromLocalStorage() {
+  function loadSavedData() {
     $(".time-block").each(function () {
       var hourId = $(this).attr("id");
       var description = localStorage.getItem(hourId);
@@ -29,7 +29,7 @@ $(function () {
   var now = dayjs(new Date());
   $('#currentDay').text(now.format('MMM D, YYYY'));
 
-  //loads the info from LocalStorage
-  loadUserInputFromLocalStorage();
+  //Loads the info from LocalStorage
+  loadSavedData();
 
 });
